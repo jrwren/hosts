@@ -1,0 +1,16 @@
+0.0.0.0 dns.google
+0.0.0.0 cloudflare-dns.com
+0.0.0.0 dns9.quad9.net
+0.0.0.0 dns10.quad9.net
+0.0.0.0 doh.cleanbrowsing.org
+0.0.0.0 dns.dnsoverhttps.net
+0.0.0.0 doh.crypto.sx
+0.0.0.0 doh.powerdns.org
+0.0.0.0 doh-jp.blahdns.com
+0.0.0.0 dns.dns-over-https.com
+0.0.0.0 doh.securedns.eu
+0.0.0.0 dns.rubyfish.cn
+0.0.0.0 doh.dnswarden.com
+0.0.0.0 doh.captnemo.in
+0.0.0.0 doh.tiar.app
+0.0.0.0 mozilla.cloudflare-dns.com
