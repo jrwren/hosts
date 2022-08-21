@@ -1,7 +1,7 @@
 # hosts
 My host files and bind config for DNS sink holes
 
-pihole is great at blocking anything by name, not use ads.
+pihole is great at blocking anything by name, not only ads.
 
 ## facebook
 
