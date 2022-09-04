@@ -4,11 +4,11 @@ You don't need full pihole to sinkhole. pihole is built on dnsmasq. You can use 
 
 ```sh
 cd /etc/dnsmasq.d
-curl -siLO https://raw.githubusercontent.com/jrwren/hosts/main/dnsmasq/facebook.conf
-curl -siLO https://raw.githubusercontent.com/jrwren/hosts/main/dnsmasq/ebay.conf
-curl -siLO https://raw.githubusercontent.com/jrwren/hosts/main/dnsmasq/netflix.conf
-curl -siLO https://raw.githubusercontent.com/jrwren/hosts/main/dnsmasq/snapchatads.conf
-curl -siLO https://raw.githubusercontent.com/jrwren/hosts/main/dnsmasq/tiktok.conf
-curl -siLO https://raw.githubusercontent.com/jrwren/hosts/main/dnsmasq/topporn.conf
-curl -siLO https://raw.githubusercontent.com/jrwren/hosts/main/dnsmasq/vizio.conf
+curl -sLO https://raw.githubusercontent.com/jrwren/hosts/main/dnsmasq/facebook.conf
+curl -sLO https://raw.githubusercontent.com/jrwren/hosts/main/dnsmasq/ebay.conf
+curl -sLO https://raw.githubusercontent.com/jrwren/hosts/main/dnsmasq/netflix.conf
+curl -sLO https://raw.githubusercontent.com/jrwren/hosts/main/dnsmasq/snapchatads.conf
+curl -sLO https://raw.githubusercontent.com/jrwren/hosts/main/dnsmasq/tiktok.conf
+curl -sLO https://raw.githubusercontent.com/jrwren/hosts/main/dnsmasq/topporn.conf
+curl -sLO https://raw.githubusercontent.com/jrwren/hosts/main/dnsmasq/vizio.conf
 ```
