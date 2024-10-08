@@ -1,6 +1,10 @@
 0.0.0.0 facebook.com
+0.0.0.0 www.facebook.com
 0.0.0.0 facebook.net
+0.0.0.0 www.facebook.net
 0.0.0.0 fbcdn.net
+0.0.0.0 xx.fbcdn.net
+0.0.0.0 static.xx.fbcdn.net
 0.0.0.0 fbcdn.com
 0.0.0.0 facebook.net.edgekey.net
 0.0.0.0 fbsbx.com
@@ -9,3 +13,11 @@
 0.0.0.0 whatsapp.com
 0.0.0.0 tfbnw.net
 0.0.0.0 instagram.com
+0.0.0.0 www.instagram.com
+0.0.0.0 gateway.instagram.com
+0.0.0.0 graph.instagram.com
+0.0.0.0 edge-chat.instagram.com
+0.0.0.0 static.cdninstagram.com
+0.0.0.0 scontent.cdninstagram.com
+0.0.0.0 scontent-ord5-2.cdninstagram.com
+0.0.0.0 scontent-ord5-1.cdninstagram.com
